@@ -1,3 +1,5 @@
+<h2> Hi, my name is Rachel and I am thrilled to embark on my journey in the IT industry!</h2>
+
 <h2>👨‍💻 Information Technology Projects:</h2>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakoredmonds/ticket-lifecycle)
 - <b>Microsoft Azure</b>
